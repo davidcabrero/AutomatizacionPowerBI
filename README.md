@@ -1,6 +1,6 @@
 # Automatización en Power BI
 
-Este proyecto contiene scripts en C# para automatizar procesos comunes Power BI con Tabular 2.
+Este proyecto contiene scripts en C# para automatizar procesos comunes de Power BI con Tabular 2.
 
 ---
 
