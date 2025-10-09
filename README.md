@@ -22,3 +22,9 @@ Es útil para mantener actualizada la documentación técnica del modelo.
 ### 2. `DetectaNoUsoColumns.csx`
 
 Este script revisa el modelo para detectar columnas que no están siendo utilizadas en el modelo, facilitando la optimización y limpieza del mismo.
+
+---
+
+### 3. `FormatoyCreacionJerarquias.csx`
+
+Este script da el formato correcto a todas las medidas del modelo y crea las jerarquías de las fechas.
