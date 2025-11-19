@@ -39,4 +39,4 @@ Este script encuentra todas las medidas en las que el nombre incluya la palabra 
 
 ### 5. `InteligenciaTiempo.csx`
 
-Este Script crea medidas de inteligencia de tiempo delas medidas seleccionadas por el usuario.
+Este Script crea medidas de inteligencia de tiempo de las medidas seleccionadas por el usuario.
