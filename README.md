@@ -31,6 +31,6 @@ Este script da el formato correcto a todas las medidas del modelo y crea las jer
 
 ---
 
-### 4. `FormatoyCreacionJerarquias.csx`
+### 4. `CambioNombresMedidas.csx`
 
 Este script encuentra todas las medidas en las que el nombre incluya la palabra que introduzca el usuario y sustituye la palabra por la que indique el usuario.
