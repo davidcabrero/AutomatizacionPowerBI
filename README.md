@@ -40,3 +40,15 @@ Este script encuentra todas las medidas en las que el nombre incluya la palabra 
 ### 5. `InteligenciaTiempo.csx`
 
 Este Script crea medidas de inteligencia de tiempo de las medidas seleccionadas por el usuario.
+
+---
+
+### 6. `DetectaMedidasDuplicadas.csx`
+
+Este Script detecta las medidas que aún teniendo diferente nombre tengan la misma expresión, estando duplicadas en el modelo.
+
+---
+
+### 7. `OcultarColumnas.csx`
+
+Este Script oculta las columnas técnicas del modelo, es decir las claves como id o sk.
