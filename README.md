@@ -52,3 +52,9 @@ Este Script detecta las medidas que aún teniendo diferente nombre tengan la mis
 ### 7. `OcultarColumnas.csx`
 
 Este Script oculta las columnas técnicas del modelo, es decir las claves como id o sk.
+
+---
+
+### 8. `CondicionaMedidas.csx`
+
+Este Script añade una condición if a todas las medidas seleccionadas del modelo.
