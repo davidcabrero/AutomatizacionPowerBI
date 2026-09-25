@@ -1,8 +1,3 @@
-// AnalizaDependencias.csx
-// Genera un informe de dependencias: para cada medida, qué columnas y qué otras
-// medidas utiliza en su expresión DAX. Complementa a DetectaMedidasDuplicadas.csx
-// y DetectaNoUsoColumns.csx: aquí ves el "árbol" completo, no solo si se usa o no.
-
 using System.Text;
 using TabularEditor.TOMWrapper;
 
@@ -31,5 +26,4 @@ System.IO.File.WriteAllText(ruta, sb.ToString());
 
 Info($"Informe de dependencias generado en:\n{ruta}");
 
-// Bonus: medidas con más de 10 dependencias suelen ser candidatas a refactorizar
-// (demasiada lógica en una sola medida). Puedes filtrar el CSV por esa columna.
+
