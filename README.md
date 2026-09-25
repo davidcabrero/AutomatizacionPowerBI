@@ -58,3 +58,21 @@ Este Script oculta las columnas técnicas del modelo, es decir las claves como i
 ### 8. `CondicionaMedidas.csx`
 
 Este Script añade una condición if a todas las medidas seleccionadas del modelo.
+
+---
+
+### 9. `AnalizaDependencias.csx`
+
+Este Script lista de qué columnas/medidas depende cada medida y ayuda a detectar medidas sobrecargadas con demasiadas dependencias.
+
+---
+
+### 10. `ExportaMedidasCSV.csx`
+
+Este Script saca todas las medidas y su info (expresión, carpeta, descripción, formato) a CSV.
+
+---
+
+### 11. `OrganizaCarpetasVisualizacion.csx`
+
+Este Script auto-clasifica las medidas en DisplayFolder según el prefijo del nombre.
