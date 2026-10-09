@@ -76,3 +76,9 @@ Este Script saca todas las medidas y su info (expresión, carpeta, descripción,
 ### 11. `OrganizaCarpetasVisualizacion.csx`
 
 Este Script auto-clasifica las medidas en DisplayFolder según el prefijo del nombre.
+
+---
+
+### 12. `AñadirDescripciones.csx`
+
+Este Script auto-añade las descripciones de las tablas, columnas y medidas del modelo.
